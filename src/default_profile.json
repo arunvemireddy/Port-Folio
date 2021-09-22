@@ -1,24 +1,24 @@
 {
-    "fullName": "Arun",
+    "fullName": "Arun Kumar Reddy Vemireddy",
     "links": {
      "linkedin": "https://www.linkedin.com/in/shubham-gupta-103929108/",
      "github": "https://github.com/shubhamg2404"
     },
     "skills": [
      "Javascript",
-     "ReactJS, NodeJs",
+     "ReactJS",
      "Jquery/HTML/CSS",
-     "Python",
+     "Python Django",
      "Databases: Posgres, MySql, Cassandra",
      "Rest",
      "Google Analytics",
-     "Decentralized Applications (DApps)",
+     "Angular",
      "Git/Github"
     ],
-    "about": "\n      Shubham is a problem solver who has an insatiable hunger for creating and learning new things. He is a voracious reader and an excellent researcher which helps him achieve solutions to problems he wants to solve. His ability to think out of the box sets him apart from the crowd.\n      Shubham is a programmer at heart and he love to watch animes whenever he is free.\n  ",
-    "birthDate": "April 24, 1996",
+    "about": "\n      Arun is a problem solver who has an insatiable hunger for creating and learning new things. He is a voracious reader and an excellent researcher which helps him achieve solutions to problems he wants to solve. His ability to think out of the box sets him apart from the crowd.\n      Shubham is a programmer at heart and he love to watch animes whenever he is free.\n  ",
+    "birthDate": "January 07, 1998",
     "jobTitle": "Software Engineer",
-    "email": "shubhamg2404@gmail.com",
+    "email": "vemireddyarun0701@gmail.com",
     "skillDescription": "I am a passionate innovator who works on creating useful tools which ease out functioning & enable real-time actions resulting in effective operations & greater ROI for businesses.\n  I excel at analyzing pain areas, identifying values for any existing workflow or system and thus ideating & implementing new software products from head to tail to address identified concerns. I strive to constantly contribute in resolving day to day problems via frequent connect with people to understand the pain points & then utilize technology innovation to solve them. ",
     "profileDescription": "I am working in IT industry for last 2 years, specializing in turnarounds, revitalization and innovation. Ultimately delivering high quality useful products and services.\n  I am always striving to bring 100% to the work I do and my goal is to create useful tools which ease out functioning & greater return for businesses.",
     "workExperience": [
