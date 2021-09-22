@@ -12,7 +12,7 @@ const indexPage = () => {
         <Layout>
             <Helmet>
                 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' />
-                <title>Shubham Gupta</title>
+                <title>Arun Kumar</title>
             </Helmet>
         </Layout>
     );

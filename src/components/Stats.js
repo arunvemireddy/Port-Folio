@@ -1,6 +1,11 @@
 import React from "react";
 
+import * as details from "../utils/DetailsConstant";
+
 class Stats extends React.Component {
+
+   
+
     constructor(props) {
         super(props);
     }
@@ -66,9 +71,7 @@ class Stats extends React.Component {
                         </div>
                         <h5>Where to find me</h5>
                         <p>
-                            530 Khatiwala Tank <br />
-                            Indore,M.P <br />
-                            452014 India
+                           {details.address}
                         </p>
                     </div>
                     <div className="col-four tab-full">
@@ -76,7 +79,7 @@ class Stats extends React.Component {
                             <i className="icon-mail"></i>
                         </div>
                         <h5>Email Me At</h5>
-                        <p>shubhamg2404@gmail.com
+                        <p>{details.mail}
                         </p>
                     </div>
                     <div className="col-four tab-full">
@@ -84,7 +87,7 @@ class Stats extends React.Component {
                             <i className="icon-phone"></i>
                         </div>
                         <h5>Call Me At</h5>
-                        <p>Phone: (+91) 898-962-6549<br />
+                        <p>{details.contact}<br />
                         </p>
                     </div>
                 </div>

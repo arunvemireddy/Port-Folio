@@ -33,7 +33,7 @@ class Intro extends React.Component {
                         <div className="col-twelve">
 
                             <h5>Hello, World.</h5>
-                            <h1>I'm Shubham Gupta.</h1>
+                            <h1>I'm Arun Kumar.</h1>
 
                             <p className="intro-position">
                                 <span>Full Stack Developer</span>

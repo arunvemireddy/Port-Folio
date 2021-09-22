@@ -90,4 +90,6 @@ exports.onPreBuild = async () => {
         fs.writeFileSync(`${__dirname}/src/profile.json`, JSON.stringify(defaultProfile, undefined, 1));
     }
 
+    
+
 }
