@@ -23,32 +23,30 @@
     "skillDescription": "I am a passionate innovator who works on creating useful tools which ease out functioning & enable real-time actions resulting in effective operations & greater ROI for businesses.\n  I excel at analyzing pain areas, identifying values for any existing workflow or system and thus ideating & implementing new software products from head to tail to address identified concerns. I strive to constantly contribute in resolving day to day problems via frequent connect with people to understand the pain points & then utilize technology innovation to solve them. ",
     "profileDescription": "I am working in IT industry for last 2 years, specializing in turnarounds, revitalization and innovation. Ultimately delivering high quality useful products and services.\n  I am always striving to bring 100% to the work I do and my goal is to create useful tools which ease out functioning & greater return for businesses.",
     "workExperience": [
-     {
-      "position": "Software Engineer",
-      "type": "work",
-      "from": "Jul 2019",
-      "to": "Present",
-      "companyName": "Impetus Technologies",
-      "description": "- Created Flight Search Result(FSR) module for an aviation domain company's (Fortune  500) Digital Optimization (Experimentation) project. Did various optimization to improve the performance and revenue.\n        - Devised a unique way to perform a/b testing on single page application (react) which made them release independent. Thus reducing the feature release cycle  from 44 days to 14 days.\n        - Created a decentralized gambling platform on top of ethereum blockchain.\n        - Analyzing systems, identifying problems and Ideating solutions \n        - Designed & implemented frameworks, defined technology standards, methodologies.\n        "
-     },
-     {
-      "position": "Associate Software Engineer",
-      "type": "work",
-      "from": "May 2018",
-      "to": "Jul 2019",
-      "companyName": "Impetus Infotech",
-      "description": "\n            - Part of the aviation domain digital analytics and Digital optimization (Experimentation). \n            My responsibilities: \n            - Writing production level javascript code to enhance the user interface with accessibility features(aria)\n            - Writing tracking code to analyze how the user behaves on the website.\n            - Code review of other team members\n            - Collaborating with multiple teams to understand the new requirements and provide the best solution.\n            - Looking after the whole lifecycle of A/B test using oracle maxymiser.\n\n            Built an Intelligent program which:\n            1) Automates the code writing process which generates 60% of the code which is required. \n            2) It simultaneously creates Stories and Subtasks according to the requirement on JIRA with appropriate story points and description\n            3) Pushes code on GIT and Maximizer simultaneously\n            This helps us save 400 man-hours yearly and due to that, I was awarded as a Bright Beginner, an Award given to the new & exceptional people in our organization."
-     }
+        {
+         "position": "Associate Engineer - Technology",
+         "type": "work",
+         "from": "\nAugust 2019 - May 30\n      ",
+         "companyName": "Virtusa",
+         "description": "\n      - Worked as a Full Stack Web Developer\n- Angular\n- Spring Boot - Java\n- Oracle\n      "
+        }
     ],
     "education": [
-     {
-      "position": "Bachelor Degree",
-      "type": "education",
-      "from": "Aug 2014",
-      "to": "May 2018",
-      "companyName": "Bachelor of Engineer",
-      "description": "I have done my Bachelor of Engineering focused in Information Techonology.\n                    Some of the courses I took:\n                    - Cryptography\n                    - Algoritms and Data Structures\n                    - Machine Learning\n                    - Web development\n                    "
-     }
+        {
+            "position": "Grad Student",
+            "type": "Education",
+            "from": "\nAug 2021 - Present\n      ",
+            "companyName": "Utah State University",
+            "description": "\n   Pursuing Masters in Computer Science\n                 Some of the courses I took:\n                    - Data Visualization\n                    - Computer Vision\n                    - DBMS\n                      "
+           },
+      {
+       "position": "Bachelor Degree",
+       "type": "education",
+       "from": "Aug 2015",
+       "to": "May 2019",
+       "companyName": "Bachelor of Engineer",
+       "description": "I have done my Bachelor of Engineering in the Stream of Computer Science."
+      }
     ],
     "projects": [
      {
