@@ -81,7 +81,7 @@ exports.onPreBuild = async () => {
         var defaultProfile = JSON.parse(fs.readFileSync(`${__dirname}/src/default_profile.json`, 'utf-8'));
 
 
-        var combinedProfile = mergerProfiles(newProfile, defaultProfile)
+        var combinedProfile = mergerProfiles(defaultProfile, defaultProfile)
 
         fs.writeFileSync(`${__dirname}/src/profile.json`, JSON.stringify(combinedProfile, undefined, 1));
 
