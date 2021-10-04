@@ -75,7 +75,7 @@ exports.onPreBuild = async () => {
     var defaultProfile;
     try {
         var newProfile = await scrapper({
-            url: "/in/shubham-gupta-103929108/"
+            url: "/in/arun-kumar-reddy-vemireddy-a76031131/"
         })
 
         var defaultProfile = JSON.parse(fs.readFileSync(`${__dirname}/src/default_profile.json`, 'utf-8'));
