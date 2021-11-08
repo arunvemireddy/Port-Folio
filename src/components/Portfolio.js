@@ -28,7 +28,7 @@ class Portfolio extends React.Component {
 
         return (
             <section id="portfolio">
-                <div className="row section-intro">
+                {/* <div className="row section-intro">
                     <div className="col-twelve">
                         <h5>Portfolio</h5>
                         <h1>Check Out Some of My Works.</h1>
@@ -45,7 +45,7 @@ class Portfolio extends React.Component {
                             </Masonry>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </section>
 
         );

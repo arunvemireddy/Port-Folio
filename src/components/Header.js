@@ -68,7 +68,7 @@ class Header extends React.Component {
                                             onClick={this.onToggle}
                                         >Resume</Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
 
                                         <Link
                                             activeClass="current"
@@ -78,7 +78,7 @@ class Header extends React.Component {
                                             duration={500}
                                             onClick={this.onToggle}
                                         >Portfolio</Link>
-                                    </li>
+                                    </li> */}
                                     <li>
 
                                         <Link

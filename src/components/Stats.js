@@ -12,7 +12,7 @@ class Stats extends React.Component {
     render() {
         return (
             <React.Fragment>
-                <section id="stats" className="count-up">
+                {/* <section id="stats" className="count-up">
                     <div className="row">
                         <div className="col-twelve">
                             <div className="block-1-4 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
@@ -63,7 +63,7 @@ class Stats extends React.Component {
                             </div>
                         </div>
                     </div>
-                </section >
+                </section > */}
                 <div className="row contact-info">
                     <div className="col-four tab-full">
                         <div className="icon">
