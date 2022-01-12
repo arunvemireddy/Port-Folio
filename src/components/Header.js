@@ -83,7 +83,7 @@ class Header extends React.Component {
 
                                         <Link
                                             activeClass="current"
-                                            to="stats"
+                                            to="footer"
                                             spy={true}
                                             smooth={true}
                                             duration={500}

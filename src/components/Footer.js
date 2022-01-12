@@ -9,7 +9,7 @@ class Footer extends React.Component {
 
     render() {
         return (
-            <footer>
+            <footer id='footer'>
                 <div className="row">
 
                     <div className="col-six tab-full pull-right social">
