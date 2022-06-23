@@ -3072,5 +3072,16 @@ footer .copyright span:last-child::after {
 #go-top a:hover {
 	background: #000000;
 }
+#works {
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
 
+.workdiv{
+	text-align: center;
+}
+.workhead {
+	text-align: center;
+}
 /*# sourceMappingURL=main.css.map */

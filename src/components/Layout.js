@@ -7,6 +7,7 @@ import Resume from "./resume/Resume";
 import About from "./About";
 import Intro from "./Intro";
 import Profile from "../profile.json"
+import Works from './Works';
 
 export default function Layout(props) {
 
@@ -17,7 +18,8 @@ export default function Layout(props) {
       {props.children}
       <About data={Profile} />
       <Resume data={Profile} />
-      <Portfolio data={Profile} />
+      <Works data={Profile}/>
+      {/* <Portfolio data={Profile} /> */}
       <Stats data={Profile} />
       <Footer />
     </div>

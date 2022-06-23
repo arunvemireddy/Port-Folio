@@ -27,7 +27,7 @@ class Resume extends React.Component {
                 </div>
                 <div className="row resume-timeline">
                     <div className="col-twelve resume-header">
-                        <h2>Education</h2>
+                        <h2>Alma mater</h2>
                     </div>
                     {this.props.data.education.map((element, index) => {
                         return <ResumeItem key={index} item={element} />

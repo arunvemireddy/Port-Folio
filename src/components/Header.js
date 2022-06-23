@@ -79,8 +79,19 @@ class Header extends React.Component {
                                             onClick={this.onToggle}
                                         >Portfolio</Link>
                                     </li> */}
-                                    <li>
 
+                                    <li>
+                                    <Link
+                                        activeClass="current"
+                                        to="works"
+                                        spy={true}
+                                        smooth={true}
+                                        duration={500}
+                                        onClick={this.onToggle}
+                                    >My Works</Link>
+                                    </li>
+
+                                    <li>
                                         <Link
                                             activeClass="current"
                                             to="footer"
@@ -90,7 +101,7 @@ class Header extends React.Component {
                                             onClick={this.onToggle}
                                         >Contact</Link>
                                     </li>
-
+                                    
                                 </ul>
                             </nav>
                         )}
