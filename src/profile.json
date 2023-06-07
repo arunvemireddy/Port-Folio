@@ -17,33 +17,43 @@
   "Decentralized Applications (DApps)",
   "Git/Github"
  ],
- "about": "Arun is a problem solver who has an insatiable hunger for creating and learning new things. He is a voracious reader and an excellent researcher. His ability to think out of the box sets him apart from the crowd.\nArun is a programmer at heart and he loves to watch anime whenever he is free.\n",
+ "about": "",
  "birthDate": "January 07, 1998",
  "jobTitle": "Software Engineer",
  "email": "vemireddyarun0701@gmail.com",
  "skillDescription": "I am a passionate innovator who works on creating useful tools which ease out functioning & enable real-time actions resulting in effective operations & greater ROI for businesses.\n  I excel at analyzing pain areas, identifying values for any existing workflow or system and thus ideating & implementing new software products from head to tail to address identified concerns. I strive to constantly contribute in resolving day to day problems via frequent connect with people to understand the pain points & then utilize technology innovation to solve them. ",
- "profileDescription": "I am working in IT industry for last 2 years, specializing in turnarounds, revitalization and innovation. Ultimately delivering high quality useful products and services.\n  I am always striving to bring 100% to the work I do and my goal is to create useful tools which ease out functioning & greater return for businesses.",
+ "profileDescription": "I am currently pursuing a Master’s degree in Computer Science at Utah State University. In addition to my studies, I work part-time as an IT assistant for the Biology Department at the same institution. This position provides me with valuable work experience and funds my education. Prior to this, I worked as a full-stack developer at Virtusa in India for two years. I am a goal-oriented individual with high levels of integrity, positive energy, and exceptional interpersonal skills. I am currently seeking a software development engineer role.",
  "workExperience": [
-     
+    {
+        "position": "IT Assistant",
+        "type": "work",
+        "from": "November 2021",
+        "to":"Present",
+        "companyName": "Utah State University",
+        "description": "\n      - Worked as a Full Stack Web Developer\n- Angular\n- Spring Boot - Java\n- Oracle\n      "
+       },
   {
-   "position": "Associate Engineer - Technology",
+   "position": "Associate Software Engineer",
    "type": "work",
-   "from": "\nAugust 2019 - May 30\n      ",
+   "from": "August 2019",
+   "to":"May 30 2021",
    "companyName": "Virtusa",
    "description": "\n      - Worked as a Full Stack Web Developer\n- Angular\n- Spring Boot - Java\n- Oracle\n      "
   }
+ 
   
  ],
  "education": [
     {
         "position": "Grad Student",
         "type": "Education",
-        "from": "\nAug 2021 - Present\n      ",
+        "from": "Aug 2021",
+        "to":"Present",
         "companyName": "Utah State University",
         "description": "\n   Pursuing Masters in Computer Science\n                 Some of the courses I took:\n                    - Data Visualization\n                    - Computer Vision\n                    - DBMS\n                      "
        },
   {
-   "position": "Bachelor Degree",
+   "position": "Undergrad",
    "type": "education",
    "from": "Aug 2015",
    "to": "May 2019",
