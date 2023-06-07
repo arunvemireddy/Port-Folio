@@ -47,7 +47,6 @@ class FolioItem extends React.Component {
 
 
         return (
-
             <React.Fragment>
                 <div className="bgrid folio-item">
                     <div className="item-wrap">
@@ -78,9 +77,6 @@ class FolioItem extends React.Component {
                                 <p>{this.formantedDescription}</p>
                                 <div className="categories">{this.props.data.projectCategory}</div>
                             </div>
-
-
-
                         </Modal.Body>
                         <Modal.Footer>
                             <div className="link-box">

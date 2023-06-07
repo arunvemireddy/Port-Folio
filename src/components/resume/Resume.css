@@ -1,0 +1,17 @@
+.virtusa {
+	position: relative;
+	width: 24px; /* Adjust the width and height according to your icon size */
+	height: 24px;
+  }
+  
+  .virtusa::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url('https://media.licdn.com/dms/image/D560BAQGEPXDEIb7QDA/company-logo_200_200/0/1682334527897?e=1694044800&v=beta&t=Al5-NjUMkCKXUDFPRBxKozpzMoXr3go4tj3QFPVmdCw');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+  }
