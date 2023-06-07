@@ -11,8 +11,8 @@ const indexPage = () => {
     return (
         <Layout>
             <Helmet>
-                <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' />
-                <title>Arun Kumar</title>
+                <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' />
+                <title>portfolio</title>
             </Helmet>
         </Layout>
     );

@@ -17,18 +17,14 @@ class Header extends React.Component {
 
                     <div className="top-bar">
                         <a className="menu-toggle" onClick={this.onToggle}><span>Menu</span></a>
-
                         <div className="logo">
-
                             <Link
                                 to="intro"
                                 spy={true}
                                 smooth={true}
                                 duration={500}
-                            >Menu</Link>
+                            ></Link>
                         </div>
-
-
                     </div>
 
                     <SlideToggle toggleEvent={this.state.toggleEvent} collapsed>
