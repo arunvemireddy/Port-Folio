@@ -24,7 +24,6 @@ class Intro extends React.Component {
 
         return (
             <section id="intro">
-
                 <div className="intro-overlay"></div>
 
                 <div className="intro-content">
