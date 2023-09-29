@@ -1,20 +1,29 @@
-import React from "react"
-import Layout from "../components/Layout"
+import React from "react";
+import Layout from "../components/Layout";
+import { Helmet } from "react-helmet";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../../static/css/base.css';
 import '../../static/css/vendor.css';
 import '../../static/css/main.css';
 
-import { Helmet } from "react-helmet";
+// Define URL variables
+const googleFontsURL = 'https://fonts.googleapis.com/css?family=Merriweather';
+const siteTitle = 'portfolio';
+const helloWorldText = 'Hello, World!';
 
-const indexPage = () => {
-    return (
-        <Layout>
-            <Helmet>
-                <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' />
-                <title>portfolio</title>
-            </Helmet>
-        </Layout>
-    );
-}
-export default indexPage;
+const IndexPage = () => {
+  return (
+    <Layout>
+      <Helmet>
+        <link href={googleFontsURL} rel="stylesheet" />
+        <title>{siteTitle}</title>
+      </Helmet>
+      <div className="container">
+        {/* <h1 className="text-primary">{helloWorldText}</h1> */}
+        {/* Your page content */}
+      </div>
+    </Layout>
+  );
+};
+
+export default IndexPage;
